@@ -6,16 +6,16 @@ Use Alt + letter keys to keyboard naviagtion, preventing hand to go off from 10-
 
 This is *.apk script which helps with keyboard navigation. It works everywhere, as opposed to specialized text editors, and uses convenient key scheme:
 
-alt + j - move cursor left
-alt + i - move cursor up
-alt + k - move cursor down
-alt + l - move cursor right
-alt + u - move to home ( start of the line )
-alt + o - move to end ( end of the line )
-alt + h - delete last character ( backspace )
-alt + ; - delete next character ( delete )
-alt + p - move page up
-alt + / - move page down
+* alt + j - move cursor left
+* alt + i - move cursor up
+* alt + k - move cursor down
+* alt + l - move cursor right
+* alt + u - move to home ( start of the line )
+* alt + o - move to end ( end of the line )
+* alt + h - delete last character ( backspace )
+* alt + ; - delete next character ( delete )
+* alt + p - move page up
+* alt + / - move page down
 
 Script also contains shortcuts for modifiers, for example shift + alt + j is the same thing as shift + left, which is standard for selecting text as moving left.
 
