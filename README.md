@@ -24,7 +24,7 @@ The idea is nothing new, but has surprisingly low coverage in community. I use t
 
 #Usage
 
-Install AutoHotkey ( https://autohotkey.com/ ).
-Run AutoHotkey. Menu -> File -> EditScript.
-Copy & Paste contents of AutoHotkey.ahk file.
-Enjoy!
+* Install AutoHotkey ( https://autohotkey.com/ ).
+* Run AutoHotkey. Menu -> File -> EditScript.
+* Copy & Paste contents of AutoHotkey.ahk file.
+* Enjoy!
