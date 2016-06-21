@@ -1,5 +1,5 @@
 # JIKL_navigation
-Use Alt + letter keys to keyboard naviagtion, preventing hand to go off from 10-finger typer position.
+Use Alt + letter keys for keyboard naviagtion, keeping your fingers on asdf jkl; position.
 
 
 # Description
