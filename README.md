@@ -4,7 +4,7 @@ Use Alt + letter keys for keyboard naviagtion, keeping your fingers on asdf jkl;
 
 # Description
 
-This is *.apk script which helps with keyboard navigation. It works everywhere, as opposed to specialized text editors, and uses convenient key scheme:
+This is *.ahk script which helps with keyboard navigation. It works everywhere, as opposed to specialized text editors, and uses convenient key scheme:
 
 * alt + j - move cursor left
 * alt + i - move cursor up
