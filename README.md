@@ -22,9 +22,19 @@ Script also contains shortcuts for modifiers, for example shift + alt + j is the
 
 The idea is nothing new, but has surprisingly low coverage in community. I use this scheme for 5 years now and only heard of other people using it twice.
 
-#Usage
+# Usage
+
+## Windows
 
 * Install AutoHotkey ( https://autohotkey.com/ ).
 * Run AutoHotkey. Menu -> File -> EditScript.
 * Copy & Paste contents of AutoHotkey.ahk file.
+* Enjoy!
+
+## Macos
+
+* Install Karabiner ( https://pqrs.org/osx/karabiner/ ).
+* Run Karabiner. Navigate to `Misc & Uninstall` -> `Open private.xml`.
+* Copy & Paste contents of private.xml file.
+* In Karabiner, navigate to `Change Key` -> `Reload XML`.
 * Enjoy!

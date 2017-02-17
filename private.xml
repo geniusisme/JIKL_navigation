@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<root>
+    <item>
+        <name>Usual navigation stuff</name>
+        <identifier>private.alt_navigation</identifier>
+        <autogen>__KeyToKey__ KeyCode::I, VK_OPTION, KeyCode::CURSOR_UP</autogen>
+        <autogen>__KeyToKey__ KeyCode::J, VK_OPTION, KeyCode::CURSOR_LEFT</autogen>
+        <autogen>__KeyToKey__ KeyCode::K, VK_OPTION, KeyCode::CURSOR_DOWN</autogen>
+        <autogen>__KeyToKey__ KeyCode::L, VK_OPTION, KeyCode::CURSOR_RIGHT</autogen>
+        <autogen>__KeyToKey__ KeyCode::H, VK_OPTION, KeyCode::DELETE</autogen>
+        <autogen>__KeyToKey__ KeyCode::SEMICOLON, VK_OPTION, KeyCode::FORWARD_DELETE</autogen>
+        <autogen>__KeyToKey__ KeyCode::P, VK_OPTION, KeyCode::PAGEUP</autogen>
+        <autogen>__KeyToKey__ KeyCode::SLASH, VK_OPTION, KeyCode::PAGEDOWN</autogen>
+        <autogen>__KeyToKey__ KeyCode::U, VK_OPTION, KeyCode::CURSOR_LEFT, ModifierFlag::COMMAND_L</autogen>
+        <autogen>__KeyToKey__ KeyCode::O, VK_OPTION, KeyCode::CURSOR_RIGHT, ModifierFlag::COMMAND_L</autogen>
+    </item>
+</root>
